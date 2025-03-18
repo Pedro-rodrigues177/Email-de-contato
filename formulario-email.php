@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Formulario de Contato</title>
-    <link rel="stylesheet" href="style-form.css" />
+    <link rel="stylesheet" href="style-Form.css" />
   </head>
   <body>
     <h1>Formulario de Contato</h1>
@@ -26,7 +26,7 @@
       <input
         type="hidden"
         name="_next"
-        value="http://localhost/email-de-contato/obrigado.php"
+        value="http://rodriguesphtech.infinityfreeapp.com/obrigado.php"
       />
       <button type="submit">Enviar</button>
     </form>
